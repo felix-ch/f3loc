@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+env1/
+venv1/
+*.venv
+*.env
+*.venv.bak
+*.env.bak
+
+# IDEs
+.idea/
+.vscode/
+*.code-workspace
+
+# Compiled files
+*.class
+*.war
+*.jar
+
+# Logs
+*.log
+logs/
+log/
+log.txt
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# data
+data/

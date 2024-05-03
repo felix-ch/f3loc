@@ -1,0 +1,17 @@
+name: f3loc
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.8
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch
+  - cudatoolkit=11.3
+  - pip:
+    - matplotlib
+    - lightning
+    - attrdict
+    - opencv-python
